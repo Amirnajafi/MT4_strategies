@@ -51,7 +51,6 @@ void OnDeinit(const int reason) {
 
 void EntryStrategy() {
     switch(getEntryStatus()) {
-
         case BUY:
             TicketNumber = OrderSend(Symbol(), OP_BUY, Lots, Ask, 3, 0, 0, "BUY Order", MAGICMA, 0, clrGreen);
             if(TicketNumber != -1) {
