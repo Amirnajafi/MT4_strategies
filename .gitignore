@@ -1,0 +1,27 @@
+.vscode/
+Files/
+Images/
+Libraries/
+Logs/
+Presets/
+Projects/
+Scripts/
+Shared Projects/
+Mt4Compile.bat
+/Include/Arrays/
+/Include/Canvas/
+/Include/ChartObjects/
+/Include/Charts/
+/Include/Controls/
+/Include/Indicators/
+/Include/Strings/
+/Include/Tools/
+/Include/MovingAverages.mqh
+/Include/MQLTA ErrorHandling.mqh
+/Include/MQLTA Utils.mqh
+/Include/Object.mqh
+/Include/stderror.mqh
+/Include/stdlib.mqh
+/Include/StdLibErr.mqh
+/Include/WinUser32.mqh
+/compilemql4.log
